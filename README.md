@@ -8,5 +8,4 @@ Project is created with:
 ## Run
 To run this script in current directory.
 
-```./convert.sh
-```
+``` ./convert.sh ```
